@@ -2,12 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="757770a8-4932-452a-9cc5-ceb9186c9cc0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Dao/AssetsDataAccessService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Dao/AssetsDataAccessService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Dao/ElectronicDataAccessService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Dao/ElectronicDataAccessService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dao/AssetsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dao/AssetsDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dao/AssetsDataAccessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dao/AssetsDataAccessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dao/ElectronicDataAccessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dao/ElectronicDataAccessService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +76,22 @@
       <screen x="0" y="0" width="1440" height="867" />
     </state>
     <state x="334" y="29" width="757" height="802" key="CommitChangelistDialog2/0.0.1440.867@0.0.1440.867" timestamp="1583857068918" />
+    <state width="1384" height="217" key="GridCell.Tab.0.bottom" timestamp="1583857161578">
+      <screen x="0" y="0" width="1440" height="867" />
+    </state>
+    <state width="1384" height="217" key="GridCell.Tab.0.bottom/0.0.1440.867@0.0.1440.867" timestamp="1583857161578" />
+    <state width="1384" height="217" key="GridCell.Tab.0.center" timestamp="1583857161578">
+      <screen x="0" y="0" width="1440" height="867" />
+    </state>
+    <state width="1384" height="217" key="GridCell.Tab.0.center/0.0.1440.867@0.0.1440.867" timestamp="1583857161578" />
+    <state width="1384" height="217" key="GridCell.Tab.0.left" timestamp="1583857161577">
+      <screen x="0" y="0" width="1440" height="867" />
+    </state>
+    <state width="1384" height="217" key="GridCell.Tab.0.left/0.0.1440.867@0.0.1440.867" timestamp="1583857161577" />
+    <state width="1384" height="217" key="GridCell.Tab.0.right" timestamp="1583857161578">
+      <screen x="0" y="0" width="1440" height="867" />
+    </state>
+    <state width="1384" height="217" key="GridCell.Tab.0.right/0.0.1440.867@0.0.1440.867" timestamp="1583857161578" />
     <state x="97" y="100" width="1236" height="664" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1583857013094">
       <screen x="0" y="0" width="1440" height="867" />
     </state>
