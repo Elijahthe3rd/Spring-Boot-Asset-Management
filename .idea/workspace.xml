@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a387505-0b09-473e-a71f-0d3044b54b89" name="Default Changelist" comment="" />
+    <list default="true" id="757770a8-4932-452a-9cc5-ceb9186c9cc0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/..">
-      <ProjectState />
-    </projectState>
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProjectId" id="1Ysnm9r0Xf6jZFRUUffXq1daFzK" />
+  <component name="ProjectId" id="1YwcAq0sfy1eKZAPOxzqSxHCsOi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,17 +31,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Spring-Boot-Asset-Management" />
-  </component>
-  <component name="RecentsManager">
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="Dao" />
-    </key>
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="MAIN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="/usr/lib/jvm/java-13-openjdk-amd64" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="MAIN" />
       <module name="ExamplePredicate.main" />
       <method v="2">
@@ -59,56 +52,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8a387505-0b09-473e-a71f-0d3044b54b89" name="Default Changelist" comment="" />
-      <created>1583740325930</created>
+      <changelist id="757770a8-4932-452a-9cc5-ceb9186c9cc0" name="Default Changelist" comment="" />
+      <created>1583856956841</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583740325930</updated>
+      <updated>1583856956841</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="173" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583856372858">
+    <state x="334" y="29" width="757" height="802" key="CommitChangelistDialog2" timestamp="1583857068918">
       <screen x="0" y="0" width="1440" height="867" />
     </state>
-    <state x="173" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.867@0.0.1440.867" timestamp="1583856372858" />
-    <state x="518" y="88" width="380" height="572" key="#com.intellij.ide.util.MemberChooser" timestamp="1583845546129">
+    <state x="334" y="29" width="757" height="802" key="CommitChangelistDialog2/0.0.1440.867@0.0.1440.867" timestamp="1583857068918" />
+    <state x="97" y="100" width="1236" height="664" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1583857013094">
       <screen x="0" y="0" width="1440" height="867" />
     </state>
-    <state x="518" y="88" width="380" height="572" key="#com.intellij.ide.util.MemberChooser/0.0.1440.867@0.0.1440.867" timestamp="1583845546129" />
-    <state x="491" y="99" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1366.708@0.27.1366.708" timestamp="1583831066485" />
-    <state x="453" y="184" width="530" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583841710226">
+    <state x="97" y="100" width="1236" height="664" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1440.867@0.0.1440.867" timestamp="1583857013094" />
+    <state x="520" y="352" width="386" height="157" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583857042773">
       <screen x="0" y="0" width="1440" height="867" />
     </state>
-    <state x="453" y="184" width="530" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.867@0.0.1440.867" timestamp="1583841710226" />
-    <state x="503" y="193" width="430" height="481" key="FileChooserDialogImpl" timestamp="1583855969972">
+    <state x="520" y="352" width="386" height="157" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.867@0.0.1440.867" timestamp="1583857042773" />
+    <state x="368" y="226" width="689" height="409" key="git4idea.merge.GitPullDialog" timestamp="1583857142587">
       <screen x="0" y="0" width="1440" height="867" />
     </state>
-    <state x="503" y="193" width="430" height="481" key="FileChooserDialogImpl/0.0.1440.867@0.0.1440.867" timestamp="1583855969972" />
-    <state width="1394" height="219" key="GridCell.Tab.0.bottom" timestamp="1583855390680">
-      <screen x="0" y="0" width="1440" height="867" />
-    </state>
-    <state width="1394" height="219" key="GridCell.Tab.0.bottom/0.0.1440.867@0.0.1440.867" timestamp="1583855390680" />
-    <state width="1394" height="219" key="GridCell.Tab.0.center" timestamp="1583855390679">
-      <screen x="0" y="0" width="1440" height="867" />
-    </state>
-    <state width="1394" height="219" key="GridCell.Tab.0.center/0.0.1440.867@0.0.1440.867" timestamp="1583855390679" />
-    <state width="1394" height="219" key="GridCell.Tab.0.left" timestamp="1583855390678">
-      <screen x="0" y="0" width="1440" height="867" />
-    </state>
-    <state width="1394" height="219" key="GridCell.Tab.0.left/0.0.1440.867@0.0.1440.867" timestamp="1583855390678" />
-    <state width="1394" height="219" key="GridCell.Tab.0.right" timestamp="1583855390680">
-      <screen x="0" y="0" width="1440" height="867" />
-    </state>
-    <state width="1394" height="219" key="GridCell.Tab.0.right/0.0.1440.867@0.0.1440.867" timestamp="1583855390680" />
-    <state x="357" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1583856341657">
-      <screen x="0" y="0" width="1440" height="867" />
-    </state>
-    <state x="357" y="220" key="com.intellij.ide.util.TipDialog/0.0.1440.867@0.0.1440.867" timestamp="1583856341657" />
-    <state x="339" y="207" key="com.intellij.ide.util.TipDialog/0.27.1366.708@0.27.1366.708" timestamp="1583830850418" />
-    <state x="465" y="55" width="506" height="756" key="refactoring.ChangeSignatureDialog" timestamp="1583842424739">
-      <screen x="0" y="0" width="1440" height="867" />
-    </state>
-    <state x="465" y="55" width="506" height="756" key="refactoring.ChangeSignatureDialog/0.0.1440.867@0.0.1440.867" timestamp="1583842424739" />
+    <state x="368" y="226" width="689" height="409" key="git4idea.merge.GitPullDialog/0.0.1440.867@0.0.1440.867" timestamp="1583857142587" />
   </component>
 </project>

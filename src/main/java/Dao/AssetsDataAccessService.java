@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.UUID;
 
 public class AssetsDataAccessService implements AssetsDao{
-// N.B) using fakeData
+// N.B)  using fakeData
 
     List<Assets> assetsDB=new ArrayList<>();
 

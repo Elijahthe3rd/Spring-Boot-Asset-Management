@@ -11,7 +11,7 @@ public class ElectronicDataAccessService implements ElectronicsDao {
 
     List<Assets> DB=new ArrayList<>();
 
-    //Insert electronic without UUID
+    // Insert electronic without UUID
     @Override
     public int insertProduct(UUID id, Electronic electronicDevice) {
         DB.add(new Electronic(electronicDevice.getId(),
