@@ -6,19 +6,31 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Dao/AssetsDataAccessService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Dao/AssetsDataAccessService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Dao/ElectronicDataAccessService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Dao/ElectronicDataAccessService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Dao/AssetsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dao/AssetsDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Dao/AssetsDataAccessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dao/AssetsDataAccessService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Dao/ElectronicDataAccessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dao/ElectronicDataAccessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Dao/AssetsDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Dao/AssetsDataAccessService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Dao/ElectronicDataAccessService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Dao/ElectronicsDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MAIN.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/MAIN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/model/Assets.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/model/Assets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/model/Electronic.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/model/Electronic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/service/AssetsServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/service/AssetsServices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/service/ElectronicServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/service/ElectronicServices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dao/AssetsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/AssetsDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dao/AssetsDataAccessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/AssetsDataAccessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dao/ElectronicDataAccessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/ElectronicDataAccessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dao/ElectronicsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/ElectronicsDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MAIN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MAIN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Assets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Assets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Electronic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Electronic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/AssetsServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/AssetsServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/ElectronicServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/ElectronicServices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +41,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,16 +63,58 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.Spring-Boot-Asset-Management [dependencies]">
     <configuration name="MAIN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/usr/lib/jvm/java-1.11.0-openjdk-amd64" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="MAIN" />
       <module name="ExamplePredicate.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Spring-Boot-Asset-Management [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Spring-Boot-Asset-Management [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Spring-Boot-Asset-Management [dependencies]" />
+        <item itemvalue="Gradle.Spring-Boot-Asset-Management [test]" />
         <item itemvalue="Application.MAIN" />
       </list>
     </recent_temporary>
@@ -72,30 +133,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="176" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583920923275">
+      <screen x="0" y="0" width="1440" height="867" />
+    </state>
+    <state x="176" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.867@0.0.1440.867" timestamp="1583920923275" />
+    <state x="526" y="151" width="380" height="559" key="#com.intellij.ide.util.MemberChooser" timestamp="1583920226738">
+      <screen x="0" y="0" width="1440" height="867" />
+    </state>
+    <state x="526" y="151" width="380" height="559" key="#com.intellij.ide.util.MemberChooser/0.0.1440.867@0.0.1440.867" timestamp="1583920226738" />
     <state x="334" y="29" width="757" height="802" key="CommitChangelistDialog2" timestamp="1583857068918">
       <screen x="0" y="0" width="1440" height="867" />
     </state>
     <state x="334" y="29" width="757" height="802" key="CommitChangelistDialog2/0.0.1440.867@0.0.1440.867" timestamp="1583857068918" />
-    <state width="1384" height="217" key="GridCell.Tab.0.bottom" timestamp="1583857161578">
+    <state width="692" height="260" key="GridCell.Tab.0.bottom" timestamp="1583930655441">
       <screen x="0" y="0" width="1440" height="867" />
     </state>
-    <state width="1384" height="217" key="GridCell.Tab.0.bottom/0.0.1440.867@0.0.1440.867" timestamp="1583857161578" />
-    <state width="1384" height="217" key="GridCell.Tab.0.center" timestamp="1583857161578">
+    <state width="692" height="260" key="GridCell.Tab.0.bottom/0.0.1440.867@0.0.1440.867" timestamp="1583930655441" />
+    <state width="692" height="260" key="GridCell.Tab.0.center" timestamp="1583930655441">
       <screen x="0" y="0" width="1440" height="867" />
     </state>
-    <state width="1384" height="217" key="GridCell.Tab.0.center/0.0.1440.867@0.0.1440.867" timestamp="1583857161578" />
-    <state width="1384" height="217" key="GridCell.Tab.0.left" timestamp="1583857161577">
+    <state width="692" height="260" key="GridCell.Tab.0.center/0.0.1440.867@0.0.1440.867" timestamp="1583930655441" />
+    <state width="692" height="260" key="GridCell.Tab.0.left" timestamp="1583930655441">
       <screen x="0" y="0" width="1440" height="867" />
     </state>
-    <state width="1384" height="217" key="GridCell.Tab.0.left/0.0.1440.867@0.0.1440.867" timestamp="1583857161577" />
-    <state width="1384" height="217" key="GridCell.Tab.0.right" timestamp="1583857161578">
+    <state width="692" height="260" key="GridCell.Tab.0.left/0.0.1440.867@0.0.1440.867" timestamp="1583930655441" />
+    <state width="692" height="260" key="GridCell.Tab.0.right" timestamp="1583930655441">
       <screen x="0" y="0" width="1440" height="867" />
     </state>
-    <state width="1384" height="217" key="GridCell.Tab.0.right/0.0.1440.867@0.0.1440.867" timestamp="1583857161578" />
+    <state width="692" height="260" key="GridCell.Tab.0.right/0.0.1440.867@0.0.1440.867" timestamp="1583930655441" />
     <state x="97" y="100" width="1236" height="664" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1583857013094">
       <screen x="0" y="0" width="1440" height="867" />
     </state>
     <state x="97" y="100" width="1236" height="664" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1440.867@0.0.1440.867" timestamp="1583857013094" />
+    <state x="411" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1583930296247">
+      <screen x="0" y="0" width="1440" height="867" />
+    </state>
+    <state x="411" y="259" key="com.intellij.ide.util.TipDialog/0.0.1440.867@0.0.1440.867" timestamp="1583930296247" />
     <state x="520" y="352" width="386" height="157" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583857042773">
       <screen x="0" y="0" width="1440" height="867" />
     </state>
@@ -104,5 +177,13 @@
       <screen x="0" y="0" width="1440" height="867" />
     </state>
     <state x="368" y="226" width="689" height="409" key="git4idea.merge.GitPullDialog/0.0.1440.867@0.0.1440.867" timestamp="1583857142587" />
+    <state x="93" y="36" width="1245" height="789" key="new project wizard" timestamp="1583918355735">
+      <screen x="0" y="0" width="1440" height="867" />
+    </state>
+    <state x="93" y="36" width="1245" height="789" key="new project wizard/0.0.1440.867@0.0.1440.867" timestamp="1583918355735" />
+    <state x="463" y="52" width="506" height="756" key="refactoring.ChangeSignatureDialog" timestamp="1583919435403">
+      <screen x="0" y="0" width="1440" height="867" />
+    </state>
+    <state x="463" y="52" width="506" height="756" key="refactoring.ChangeSignatureDialog/0.0.1440.867@0.0.1440.867" timestamp="1583919435403" />
   </component>
 </project>
