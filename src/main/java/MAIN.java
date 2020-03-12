@@ -1,4 +1,4 @@
-//import model.Electronic;
+//import Electronic;
 //import java.util.UUID;
 //public class MAIN {
 //    public static void main(String[] args) {
