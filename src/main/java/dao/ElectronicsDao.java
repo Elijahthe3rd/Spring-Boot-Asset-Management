@@ -1,7 +1,6 @@
 package dao;
 
 import model.Electronic;
-import org.springframework.stereotype.Repository;
 
 import java.util.UUID;
 
