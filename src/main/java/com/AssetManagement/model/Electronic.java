@@ -6,7 +6,7 @@ import java.util.UUID;
 
 public class Electronic extends Assets {
 
-    private final String serialNo;
+    private  String serialNo;
     private final String make;
     private final String type;
     private final boolean availability;
@@ -14,17 +14,10 @@ public class Electronic extends Assets {
     private final String model;
 
 //constructor
-    public Electronic(UUID id,
-                      @JsonProperty("serialNo")String serialNo,
-                      @JsonProperty("make") String make,
-                      @JsonProperty("type") String type,
-                      @JsonProperty("availability") boolean availability,
-                      @JsonProperty("status") String status,
-                      @JsonProperty("com/AssetManagement/model") String model){
+    public Electronic(UUID id, String serialNo, String make, String type, boolean availability, String status, String model){
         //construction & initialization of local attributes
         this.make = make;
         this.model = model;
-        super.setManufacturer(this.make);
         this.type = type;
         this.serialNo = serialNo;
         this.availability = availability;
@@ -35,6 +28,7 @@ public class Electronic extends Assets {
         super.setCategory(this.type);
         super.setModel(this.model);
         super.setAssinged(this.availability);
+        super.setManufacturer(this.make);
     }
 
     public String getSerialNo() { return serialNo; }

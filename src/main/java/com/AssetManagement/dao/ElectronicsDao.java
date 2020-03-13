@@ -5,7 +5,7 @@ import org.springframework.stereotype.Repository;
 
 import java.util.UUID;
 
-@Repository("fakeData")
+
 public interface ElectronicsDao {
 
     int insertProduct(UUID id, Electronic electronicDevice);

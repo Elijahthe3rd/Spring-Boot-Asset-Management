@@ -5,7 +5,7 @@ import org.springframework.stereotype.Repository;
 
 import java.util.UUID;
 
-@Repository("fakeData1")
+
 public interface AssetsDao {
 
     int insertAsset(UUID id, Assets asset);

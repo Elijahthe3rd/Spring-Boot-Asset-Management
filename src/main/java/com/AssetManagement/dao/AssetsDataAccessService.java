@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-@Repository("fakeData1")
+
 public class AssetsDataAccessService implements AssetsDao{
 // N.B)  using fakeData
 
@@ -16,7 +16,7 @@ public class AssetsDataAccessService implements AssetsDao{
     @Override
     public int insertAsset(UUID id, Assets asset) {
         assetsDB.add(asset);
-        return 0;
+        return 1;
     }
 
     @Override
